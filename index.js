@@ -8,4 +8,8 @@ class Animal{
     action(){
         console.log('Says'+ this.sound)
     }
+
+    keunikan(){
+        console.log("Bisa melompat 20 M")
+    }
 }
